@@ -1,0 +1,54 @@
+# Hypnotic Lemons Logo — SVG Format
+
+## File Information
+- **Format:** SVG (Scalable Vector Graphics)
+- **Color Space:** RGB
+- **Scalability:** Infinite (vector-based)
+- **Compression:** GZIP-compatible
+- **File Size:** [TO BE ADDED - optimized SVG]
+
+## Usage Guidelines
+
+### Responsive Web
+```html
+<img src="hypnotic-lemons-logo-primary.svg" 
+     alt="Hypnotic Lemons LLC Logo" 
+     style="max-width: 100%; height: auto;">
+```
+
+### Fallback Support
+```html
+<picture>
+  <source srcset="hypnotic-lemons-logo-primary.svg" type="image/svg+xml">
+  <img src="hypnotic-lemons-logo-primary.png" alt="Hypnotic Lemons LLC Logo">
+</picture>
+```
+
+### Mobile Apps
+- Recommended format for iOS and Android
+- Scales automatically to device pixel density
+- Use as icon or brand asset directly
+
+### Apparel & Print Production
+- Use in vector design software (Adobe Illustrator, Figma, etc.)
+- CMYK conversion ready for print
+- Maintains quality at any size
+- Suitable for embroidery and silk-screen production files
+
+## Optimization Details
+- **Tool Used:** SVGO / Adobe Illustrator
+- **Compression:** Optimized with minification
+- **Paths Simplified:** Yes (preserves brand fidelity)
+- **Embedded Raster:** None (pure vector)
+- **Viewbox:** [TO BE ADDED - original dimensions]
+
+## Color Preservation
+All original brand colors are preserved in RGB. CMYK conversion should be performed by professional printer.
+
+## Editing Notes
+- Preserves all original artistic elements
+- Proportions locked for brand consistency
+- Suitable for minor modifications (sizing, color adjustments for specific applications)
+
+## Background
+**Transparent** — Render on any background or color scheme.

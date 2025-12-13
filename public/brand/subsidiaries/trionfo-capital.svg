@@ -1,0 +1,19 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="200" fill="#ffffff" stroke="#1e293b" stroke-width="2"/>
+  
+  <!-- Capital symbol: vertical bar with dollar sign concept -->
+  <g transform="translate(50, 40)">
+    <!-- Left vertical bar -->
+    <rect x="10" y="0" width="8" height="80" fill="#1e293b"/>
+    
+    <!-- Right vertical bar -->
+    <rect x="32" y="0" width="8" height="80" fill="#1e293b"/>
+    
+    <!-- Horizontal connector (capital C concept) -->
+    <line x1="10" y1="40" x2="40" y2="40" stroke="#1e293b" stroke-width="3"/>
+  </g>
+  
+  <!-- Company name -->
+  <text x="100" y="160" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="#1e293b">Trionfo Capital LLC</text>
+</svg>

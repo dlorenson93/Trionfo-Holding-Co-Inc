@@ -1,0 +1,71 @@
+# Terra Trionfo Seal — SVG Format
+
+## File Information
+- **Format:** SVG (Scalable Vector Graphics)
+- **Color Space:** RGB
+- **Scalability:** Infinite (vector-based)
+- **Compression:** GZIP-compatible
+- **File Size:** [TO BE ADDED - optimized SVG]
+
+## Usage Guidelines
+
+### Responsive Web
+```html
+<img src="terra-trionfo-seal.svg" 
+     alt="Terra Trionfo LLC Seal" 
+     style="max-width: 100%; height: auto;">
+```
+
+### Fallback Support
+```html
+<picture>
+  <source srcset="terra-trionfo-seal.svg" type="image/svg+xml">
+  <img src="terra-trionfo-seal-transparent.png" alt="Terra Trionfo LLC Seal">
+</picture>
+```
+
+### Mobile Apps
+- Recommended format for iOS and Android
+- Scales automatically to device pixel density
+- Maintains vintage engraving quality at all sizes
+
+### Print Production (PRIMARY)
+- **Recommended format for all print applications**
+- Use in professional design software (Adobe Illustrator, InDesign, etc.)
+- CMYK conversion ready for commercial printing
+- Maintains engraving detail at any scale
+- Suitable for embossing, foil stamping, and fine detail printing
+- Compatible with print estimating and production software
+
+### Apparel Production
+- Vector format ensures crisp embroidery and screen print transitions
+- Use for production file handoff to manufacturers
+- CMYK separations simple to generate
+
+## Vintage Engraving Preservation
+SVG format maintains all original artistic characteristics:
+- Fine engraving line weights preserved
+- Vintage aesthetic fully intact
+- Color fidelity to original artwork
+- Seal proportions exactly preserved
+- No rasterization or quality loss at any scale
+
+## Optimization Details
+- **Tool Used:** Adobe Illustrator / SVGO
+- **Compression:** Optimized with minification
+- **Paths Simplified:** Yes (preserves brand fidelity)
+- **Embedded Raster:** None (pure vector)
+- **Viewbox:** [TO BE ADDED - square seal dimensions]
+
+## Color Preservation
+All original seal colors preserved in RGB. 
+**Print Notes:** Provide to professional printer for CMYK color separation.
+
+## Editing Notes
+- Editable in all major vector design software
+- Preserves all original artistic elements and engraving detail
+- Proportions locked for brand consistency
+- Suitable for minor modifications (sizing, color adjustments for specific applications)
+
+## Background
+**Transparent** — Render on any background or color scheme.

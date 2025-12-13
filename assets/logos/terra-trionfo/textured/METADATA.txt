@@ -1,0 +1,63 @@
+# Terra Trionfo Seal — Textured (Original Background)
+
+## File Information
+- **Format:** PNG (Portable Network Graphics)
+- **Background:** Original textured background (preserved)
+- **Dimensions:** [TO BE ADDED - original seal dimensions]
+- **File Size:** [TO BE ADDED]
+- **DPI:** [TO BE ADDED]
+
+## Usage Guidelines
+
+### When to Use This Version
+
+**Production Print Materials:**
+- Brand heritage presentations
+- Vintage-styled marketing collateral
+- High-quality print with textured background
+- Reference and approval versions
+- Brand showcase mockups
+
+### NOT Recommended For
+
+- ❌ Modern web applications
+- ❌ Mobile app icons
+- ❌ Clean, minimal design contexts
+- ❌ Dark backgrounds
+- ❌ Apparel mockups on solid colors
+
+## Vintage Aesthetic Preservation
+
+This version maintains:
+- Original textured background from source artwork
+- Vintage engraving detail and color fidelity
+- Full character of heritage brand aesthetic
+- Reference quality for brand presentations
+
+## When to Use Transparent Version Instead
+
+Use `terra-trionfo-seal-transparent.png` or `terra-trionfo-seal.svg` for:
+- Web applications
+- Modern digital properties
+- Apps and responsive design
+- Apparel design and mockups
+- Contemporary brand applications
+
+## Reference & Approval
+
+This textured version is ideal for:
+- Brand guideline documents
+- Heritage marketing narratives
+- Approval and archival records
+- Print vendor reference
+- Design agency brand presentations
+
+## Optimization Details
+- **Source:** Original artwork with textured background preserved
+- **Compression:** Lossless PNG
+- **Color Space:** RGB
+- **Resolution:** [TO BE ADDED - typically 300 DPI for reference]
+
+## Color & Background
+**Textured background included** — Part of original artwork heritage.
+**Original colors preserved** — Full vintage fidelity maintained.

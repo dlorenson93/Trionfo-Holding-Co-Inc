@@ -3,4 +3,7 @@ node_modules/
 .next/
 dist/
 .DS_Store
-*.logtsconfig.tsbuildinfo
+*.log
+tsconfig.tsbuildinfo
+tsconfig.node.json
+.vercel

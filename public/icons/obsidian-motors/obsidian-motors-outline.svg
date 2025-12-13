@@ -1,0 +1,8 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Car silhouette -->
+  <path d="M3 13H6L8 7H16L18 13H21M3 13V16H21V13M8 13V16M16 13V16M10 16H14" />
+  <!-- Faceted gem/shard detail on hood -->
+  <polygon points="12,8 14,11 10,11" />
+  <line x1="12" y1="8" x2="12" y2="11" />
+  <line x1="12" y1="8" x2="14" y2="11" />
+</svg>

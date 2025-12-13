@@ -1,0 +1,30 @@
+# Hypnotic Lemons Logo — Preview (Black Background)
+
+## File Information
+- **Format:** PNG (Reference Only)
+- **Background:** Black (#000000)
+- **Purpose:** Internal reference and approval only
+- **Note:** Do NOT use for production
+
+## Usage Guidelines
+- **Internal Previews:** Brand presentations, approval meetings, design reviews
+- **NOT Suitable For:**
+  - ❌ Web publication
+  - ❌ App distribution
+  - ❌ Print materials
+  - ❌ Apparel manufacturing
+  - ❌ Client deliverables
+
+## Why Black Background?
+Preview version uses black background to:
+1. Provide clear visual contrast for detail review
+2. Enable logo contrast assessment during approval process
+3. Serve as internal mockup reference
+
+**Use the transparent PNG or SVG version for all production applications.**
+
+## Replacement
+If you need a preview on a different background:
+- Use transparent PNG with background applied in design tool
+- Or generate from SVG in graphics software
+- Do not create multiple background preview versions

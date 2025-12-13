@@ -1,0 +1,17 @@
+.git
+.gitignore
+README.md
+*.md
+node_modules
+.next
+.env.local
+.env
+npm-debug.log
+yarn-error.log
+BRAND_*.md
+CONTACT_*.md
+EMAIL_*.md
+ICON_*.md
+INTEGRATION_*.md
+ISSUE_*.md
+SITE_*.md

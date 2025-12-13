@@ -1,0 +1,12 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
+  <!-- Agricultural field curves -->
+  <g stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 16Q8 14 12 16Q16 18 20 16" />
+    <path d="M4 13Q8 11 12 13Q16 15 20 13" />
+    <path d="M4 10Q8 8 12 10Q16 12 20 10" />
+  </g>
+  <!-- Sprout -->
+  <path d="M12 20V14L10 16M12 14L14 16" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Root/soil -->
+  <circle cx="12" cy="20" r="1.5" fill="currentColor" />
+</svg>

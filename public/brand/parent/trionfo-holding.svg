@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60">
+  <rect width="200" height="60" fill="white" stroke="#0f172a" stroke-width="1"/>
+  <text x="100" y="38" font-family="system-ui, sans-serif" font-size="16" font-weight="600" text-anchor="middle" fill="#0f172a">
+    Trionfo Holding
+  </text>
+</svg>

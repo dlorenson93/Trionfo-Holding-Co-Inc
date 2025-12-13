@@ -1,0 +1,39 @@
+# Hypnotic Lemons Logo — PNG Format
+
+## File Information
+- **Format:** PNG (Portable Network Graphics)
+- **Transparency:** Full alpha channel
+- **Color Space:** RGB + Alpha
+- **Dimensions:** [TO BE ADDED - original dimensions]
+- **File Size:** [TO BE ADDED - optimized for web]
+
+## Usage Guidelines
+
+### Web Implementation
+```html
+<img src="hypnotic-lemons-logo-primary.png" 
+     alt="Hypnotic Lemons LLC Logo" 
+     width="200" 
+     height="auto">
+```
+
+### Mobile App
+- Size variants: 48px, 96px, 192px
+- Use SVG version when possible for crisp retina display rendering
+
+### Apparel & Print
+- Use SVG version for vector-based production
+- PNG suitable for quick design mockups
+- Minimum dimensions: 100 x 100 px for apparel printing
+
+## Color Preservation
+All original brand colors are preserved. No color adjustments needed.
+
+## Optimization Details
+- **Compression:** Lossless PNG-8/PNG-24 with transparency
+- **Tool Used:** [TO BE ADDED]
+- **Compression Level:** Maximum (no quality loss)
+- **Intended Resolution:** 72 DPI (web standard)
+
+## Background
+**Transparent** — Use on any background color or image.

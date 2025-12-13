@@ -1,0 +1,44 @@
+# Terra Trionfo Seal — PNG Transparent
+
+## File Information
+- **Format:** PNG (Portable Network Graphics)
+- **Transparency:** Full alpha channel
+- **Color Space:** RGB + Alpha
+- **Dimensions:** [TO BE ADDED - original seal dimensions]
+- **File Size:** [TO BE ADDED - optimized for web]
+
+## Usage Guidelines
+
+### Web Implementation
+```html
+<img src="terra-trionfo-seal-transparent.png" 
+     alt="Terra Trionfo LLC Seal" 
+     width="200" 
+     height="auto">
+```
+
+### Mobile Apps
+- Size variants: 48px, 96px, 192px, 256px
+- Recommended: Use SVG for superior scaling
+- PNG for compatibility and rapid loading
+
+### Print & Apparel
+- Production use: Use SVG version for vector quality
+- Mockups: PNG transparent suitable for design visualization
+- Final output: 300+ DPI from SVG recommended
+
+## Vintage Engraving Details
+All fine detail and vintage engraving characteristics are preserved:
+- Engraving line weight maintained
+- Color fidelity to original artwork
+- Seal proportions exactly preserved
+
+## Optimization Details
+- **Compression:** Lossless PNG-8/PNG-24 with transparency
+- **Tool Used:** [TO BE ADDED]
+- **Compression Level:** Maximum (no quality loss)
+- **Intended Resolution:** 72 DPI (web standard)
+
+## Color & Background
+**Transparent background** — Use on any surface.
+**Original colors preserved** — No color adjustments needed.
