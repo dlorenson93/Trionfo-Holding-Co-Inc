@@ -69,6 +69,34 @@ export default function SubsidiaryCard({
           {subsidiary.description}
         </p>
 
+        {/* Website Link - Conditional */}
+        {subsidiary.website && (
+          <div className="mb-4 pb-4 border-t border-slate-100">
+            <a
+              href={subsidiary.website}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={(e) => e.stopPropagation()}
+              className="text-sm font-medium text-trionfo-secondary hover:text-trionfo-primary transition-colors duration-300 inline-flex items-center gap-2 py-2 px-0 hover:pl-1"
+            >
+              <span>Visit Website</span>
+              <svg
+                className="w-4 h-4 flex-shrink-0"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
+                />
+              </svg>
+            </a>
+          </div>
+        )}
+
         {/* Ownership - Footer */}
         <div className="text-xs text-trionfo-secondary/70 border-t border-slate-200 pt-3 mt-4">
           {subsidiary.ownership}

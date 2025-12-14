@@ -59,6 +59,7 @@ export const subsidiaries: Subsidiary[] = [
       'Food systems and marketplace development company focused on sustainability, responsible sourcing, and transparent producer-to-consumer supply chains.',
     ownership: 'Wholly Owned Subsidiary of Trionfo Holding Co., Inc.',
     logoId: '',
+    website: 'https://terratrionfo.com',
   },
   {
     name: 'Trionfo Enterprise Development LLC',
