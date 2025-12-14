@@ -24,9 +24,12 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
-          <Link href="/" className="flex-shrink-0" onClick={closeMenu}>
-            <span className="text-sm sm:text-base font-semibold text-trionfo-primary whitespace-nowrap">
-              Trionfo Holding
+          <Link href="/" className="flex-shrink-0 flex-grow" onClick={closeMenu}>
+            <span className="text-xs sm:text-sm md:text-base font-semibold text-trionfo-primary whitespace-nowrap truncate">
+              Trionfo
+            </span>
+            <span className="hidden sm:inline text-xs sm:text-sm md:text-base font-semibold text-trionfo-primary ml-1">
+              Holding
             </span>
           </Link>
 
@@ -60,7 +63,7 @@ export default function Navbar() {
             aria-label="Toggle navigation menu"
           >
             <svg
-              className="h-6 w-6"
+              className="h-7 w-7"
               fill="none"
               stroke="currentColor"
               viewBox="0 0 24 24"
@@ -86,24 +89,24 @@ export default function Navbar() {
 
         {/* Mobile Menu */}
         {isOpen && (
-          <div className="md:hidden pb-4 space-y-2 border-t border-slate-200">
+          <div className="md:hidden pb-3 space-y-1 border-t border-slate-200 animate-in fade-in slide-in-from-top-2 duration-200">
             <Link
               href="/about"
-              className="block px-2 py-2 text-sm text-trionfo-secondary hover:text-trionfo-primary hover:bg-trionfo-bg rounded transition-colors"
+              className="block px-4 py-3 text-base text-trionfo-secondary hover:text-trionfo-primary hover:bg-slate-50 rounded transition-colors font-medium"
               onClick={closeMenu}
             >
               About
             </Link>
             <Link
               href="/portfolio"
-              className="block px-2 py-2 text-sm text-trionfo-secondary hover:text-trionfo-primary hover:bg-trionfo-bg rounded transition-colors"
+              className="block px-4 py-3 text-base text-trionfo-secondary hover:text-trionfo-primary hover:bg-slate-50 rounded transition-colors font-medium"
               onClick={closeMenu}
             >
               Portfolio
             </Link>
             <a
               href={CORPORATE_MAILTO}
-              className="block px-2 py-2 text-sm text-trionfo-secondary hover:text-trionfo-primary hover:bg-trionfo-bg rounded transition-colors"
+              className="block px-4 py-3 text-base text-trionfo-secondary hover:text-trionfo-primary hover:bg-slate-50 rounded transition-colors font-medium"
               onClick={closeMenu}
             >
               Contact
