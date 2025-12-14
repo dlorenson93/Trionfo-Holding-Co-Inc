@@ -24,12 +24,9 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
-          <Link href="/" className="flex-shrink-0 flex-grow" onClick={closeMenu}>
-            <span className="text-xs sm:text-sm md:text-base font-semibold text-trionfo-primary whitespace-nowrap truncate">
-              Trionfo
-            </span>
-            <span className="hidden sm:inline text-xs sm:text-sm md:text-base font-semibold text-trionfo-primary ml-1">
-              Holding
+          <Link href="/" className="flex-shrink-0" onClick={closeMenu}>
+            <span className="text-xs sm:text-sm md:text-base font-semibold text-trionfo-primary whitespace-nowrap">
+              Trionfo Holding Co., Inc.
             </span>
           </Link>
 
